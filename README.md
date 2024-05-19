@@ -20,8 +20,8 @@ Execute the following commands
 
 Testing the commands for the desired output. 
 
-### Name : Aakashraj M
-### Register Number : 212222100002
+### Name : RAKESH J.S
+### Register Number : 212222230115
 
 # COMMANDS:
 ### Create the following files file1, file2 as follows:
